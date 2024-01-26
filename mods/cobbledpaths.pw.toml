@@ -1,0 +1,13 @@
+name = "Cobbled Paths"
+filename = "cobbledpaths-forge-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Si1Oa29R/versions/2FYKYNOn/cobbledpaths-forge-1.20.1-2.0.0.jar"
+hash-format = "sha1"
+hash = "9367eb9a8f5a588f5435bdda39e451a4f65fb7fd"
+
+[update]
+[update.modrinth]
+mod-id = "Si1Oa29R"
+version = "2FYKYNOn"

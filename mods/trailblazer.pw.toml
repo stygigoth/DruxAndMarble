@@ -1,0 +1,13 @@
+name = "Trailblazer"
+filename = "trailblazer-0.5.1+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1eww5EA/versions/fCe91BrA/trailblazer-0.5.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "0c866f23cfd9497a7cf8d0fc5275a4bbc3c56922"
+
+[update]
+[update.modrinth]
+mod-id = "B1eww5EA"
+version = "fCe91BrA"

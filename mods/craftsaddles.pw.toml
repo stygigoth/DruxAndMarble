@@ -1,0 +1,13 @@
+name = "Craft Saddles"
+filename = "craftsaddles-fabric-mc1.20.1-v1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YS0VbYBE/versions/s9xQKcx4/craftsaddles-fabric-mc1.20.1-v1.0.10.jar"
+hash-format = "sha1"
+hash = "a827ab9711b2345980116cbd398392c9415b794a"
+
+[update]
+[update.modrinth]
+mod-id = "YS0VbYBE"
+version = "s9xQKcx4"

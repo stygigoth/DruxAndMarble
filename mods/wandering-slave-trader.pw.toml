@@ -1,0 +1,13 @@
+name = "Wandering Slave Trader"
+filename = "wandering-slave-trader-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/73E6oqie/versions/N7tNzD3o/wandering-slave-trader-1.0.jar"
+hash-format = "sha1"
+hash = "0b460aedec158cf740615bbeceaafce17b4fbcca"
+
+[update]
+[update.modrinth]
+mod-id = "73E6oqie"
+version = "N7tNzD3o"
