@@ -21,6 +21,11 @@ hash = "597e7f2ba83102b2e28a4563c57bdde56f0f77c35cbc8c008a995210f0aacb47"
 metafile = true
 
 [[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "e9037631f35d6bedf15863b46032c06921c49537018ac43d475e549914d5de86"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "deaea581c3779fc9e553aad276357abb3af94b1bd20dbfe9919ae0d975646fa4"
 metafile = true
@@ -126,6 +131,11 @@ hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
 metafile = true
 
 [[files]]
+file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "baa7f9c7b90efc860488156c4624d670bc4bfa0e96b8cb8aa654f3a9e7a45957"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
 metafile = true
@@ -191,8 +201,18 @@ hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "05bedf66c1081d32e21bfd72b11b218a56090461ebd7c9ffd311a81fbb1bfde6"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
+
+[[files]]
+file = "mods/invocations.pw.toml"
+hash = "343230715c1dc821e4f044a1e5a71e1b481fedb71606f993820c5403de3c2ffd"
 metafile = true
 
 [[files]]
@@ -213,6 +233,21 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "111965610c2da832ec1e2e156c1a8adf79b9a8d6ac4cad25f5493cc1a7fd6673"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "9b8b8c4d5fae5eefc1e358de85a88d5ee207ba27701eb84f97fec5854a1cf7d0"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-nethervinery.pw.toml"
+hash = "3bb851f6dd3b801632a75422543fec6c23455f69ab0bc18c3afa1e05b8064c7f"
 metafile = true
 
 [[files]]
@@ -238,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/niftycarts.pw.toml"
 hash = "3ab607e144950809f9bb1a9087c4f65888c3bf133822bb8726d946025c2d4401"
+metafile = true
+
+[[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "576d07620d82ba95eb403981a9ba96e1c8fb3098039c732a0c2598a199ef08ec"
 metafile = true
 
 [[files]]
@@ -271,6 +311,11 @@ hash = "e6d365b3adae4ea6000f80601cf0e35e5ddccb56b38faed9aa086008c0bd64e1"
 metafile = true
 
 [[files]]
+file = "mods/runes.pw.toml"
+hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
+metafile = true
+
+[[files]]
 file = "mods/sandwichable.pw.toml"
 hash = "f940a85f7fce47ee3228e10dfde0c7a818d5464337bb8ba0b7074b421975e359"
 metafile = true
@@ -283,6 +328,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "3aa7821abddca3c5facb1e9bb57883ffd6be56f24aa27f61ac61ad111b9c870a"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "930b34fba49b8fa535d0bd23bcce6329b45ffde876809ba144eefe8489d76938"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "dc896448d636334c53a9f57bfab50f6f0b39c558a998b9123c58db4e67ca2aa2"
 metafile = true
 
 [[files]]
@@ -323,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "863b5cd7f792a496cc69164e30d2e5d81f3276b24a9173674de5d0fa8980156f"
 metafile = true
 
 [[files]]
