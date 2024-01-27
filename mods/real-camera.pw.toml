@@ -11,3 +11,8 @@ hash = "9da7a4ae5c0473e759f949c72248584ee34601ca"
 [update.modrinth]
 mod-id = "fYYSAh4R"
 version = "IYuNGxHM"
+
+[option]
+optional = true
+description = "Most players use this, but it isn't necessary"
+default = false
