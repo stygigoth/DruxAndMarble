@@ -311,11 +311,6 @@ hash = "4203d620657239ebb2a3f316a8f7e4b5eaad45832b7365c329fa9d85b75aa8e9"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "50f094d2065efa8d1d751b89a3a7147d7835a028ad193e9836ab0e9d3ff83655"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "2776f4939eaec939c86063aa7111a6d0382061b4d3a2c60a6b26fe3ac6695a78"
 metafile = true
@@ -353,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/simple-pipes.pw.toml"
 hash = "982469e3629a7fc474a2b8c555b96879e8f5ea8a43d69b61c35b0d5e045ee11d"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4ddabe0943463aed08fcfe20880a525cc722ca8689692d5403e2c34c2c13b2d3"
 metafile = true
 
 [[files]]
