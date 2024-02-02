@@ -266,6 +266,11 @@ hash = "054efcec42ce3a4f0f761c2fc6b085f692640dc1ae9296bd9f6ef1e8681ddd7c"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "67ff2abbc88a4052da64b21ebed1d74c35f075e3ec97f3cff0e7fee9dc114711"
+metafile = true
+
+[[files]]
 file = "mods/mythic-mounts.pw.toml"
 hash = "4b8b027b8d8e2fc4db68f2377ca09c2722af2aeeb2dfe3eb7125b71fa01ab4c0"
 metafile = true
@@ -373,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "7f0cf4525c2fde0638a1712276e22dc4580fd1eacc131ff4da6ca2adb6aa469f"
 metafile = true
 
 [[files]]
