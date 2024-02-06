@@ -136,6 +136,11 @@ hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser-forge.pw.toml"
+hash = "a3d5fa3c4a79f8e222eae9d168e5ed4614030668e7df667f88006521624e46f0"
+metafile = true
+
+[[files]]
 file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
 hash = "baa7f9c7b90efc860488156c4624d670bc4bfa0e96b8cb8aa654f3a9e7a45957"
 metafile = true
@@ -152,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
 metafile = true
 
 [[files]]
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "8522c75c77aa4d1a2834a9fffee3024fb203583d520ea4a2a3a9bfb40f856e53"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
@@ -328,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
 hash = "a6b16a548b0883eb8c0bde6a05e2c5a6313fcfc8ce32df158a71a2efb2abd378"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "51fdb129ed5984d31e9e2097cd6a0c4be4b095bb6f45cbd93c63f5c19e06039b"
 metafile = true
 
 [[files]]
