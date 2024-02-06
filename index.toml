@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
@@ -163,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
-metafile = true
-
-[[files]]
-file = "mods/fakerlib.pw.toml"
-hash = "ec1aa18ed0ef5774b2382800bc66d0acc638d0410e442953e854460393227d9c"
 metafile = true
 
 [[files]]
@@ -303,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
 hash = "353fa18bc46cab1d6aed8ed589e9705b66e51b6309eb0730cc0ad28e8668280f"
-metafile = true
-
-[[files]]
-file = "mods/patchouli-fabric.pw.toml"
-hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
 metafile = true
 
 [[files]]
@@ -473,14 +463,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "b9ffba892e9f541bbffc0fc9dc4360732e9edeb7d2d4560191fc08e457c9d372"
-metafile = true
-
-[[files]]
-file = "mods/zenith-attributes.pw.toml"
-hash = "fd45d0c95dc86f2f3da3d655d46d143c171e91dd74298c9ab5ffde11313438b3"
-metafile = true
-
-[[files]]
-file = "mods/zenith.pw.toml"
-hash = "143a4ec3f7bf2e4b667e90616b50d225dfe27f455a228e698cae4984f443e233"
 metafile = true
