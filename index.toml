@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "682dbda396392c309747e953429f9db1e4594f187ac85a7700a8ff02f7c8b523"
 metafile = true
 
 [[files]]
@@ -298,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/niftycarts.pw.toml"
 hash = "3ab607e144950809f9bb1a9087c4f65888c3bf133822bb8726d946025c2d4401"
+metafile = true
+
+[[files]]
+file = "mods/noexpensive.pw.toml"
+hash = "c9629e49e6df56c7a5786a05da27b2c9b857aafe61776761dda6f5f550423e78"
 metafile = true
 
 [[files]]
