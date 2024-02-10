@@ -121,11 +121,6 @@ hash = "30fb7e07f424a4a159219da3a77841f335357651a081033f5ddcd880814928a2"
 metafile = true
 
 [[files]]
-file = "mods/dungeons-and-taverns.pw.toml"
-hash = "ec5f0ed9e8d3b79ea61f7c79127b5f113e23ac96e92f5ba409084c8d0ab7da5e"
-metafile = true
-
-[[files]]
 file = "mods/eldritch-end.pw.toml"
 hash = "8d996210dfe6424693786d40418b4fc3665c77ac924de1b44e89d11962387acf"
 metafile = true
