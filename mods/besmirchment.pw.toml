@@ -1,0 +1,9 @@
+name = "Besmirchment"
+filename = "besmirchment-1.20.1-3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Poopooracoocoo/Besmirchment-fork/releases/download/v1.0.0%2B1.20.1/besmirchment-1.20.1-3.jar"
+
+hash-format = "sha256"
+hash = "2ef8d9eaa41f08b395a3dc312b7ba5e7be146bce3314e6d6e7fa7f471df63dbd"

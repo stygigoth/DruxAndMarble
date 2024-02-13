@@ -36,6 +36,11 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
+file = "mods/besmirchment.pw.toml"
+hash = "0c6f06b9889efa14612e7fe330dae10ce8733f055ae9a4a311d14c66e0cfbf4f"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "a86ff7d19c7d45433c3016102fcccffcdd477814a92a78e51c6144d552ad3f1f"
 metafile = true
