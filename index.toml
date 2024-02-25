@@ -86,6 +86,11 @@ hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
+metafile = true
+
+[[files]]
 file = "mods/craftsaddles.pw.toml"
 hash = "e47946582e97755481fc399aaf193a118b07d9f7805072485b771b4862683931"
 metafile = true
