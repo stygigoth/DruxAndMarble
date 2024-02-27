@@ -281,8 +281,18 @@ hash = "054efcec42ce3a4f0f761c2fc6b085f692640dc1ae9296bd9f6ef1e8681ddd7c"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "67ff2abbc88a4052da64b21ebed1d74c35f075e3ec97f3cff0e7fee9dc114711"
+metafile = true
+
+[[files]]
+file = "mods/mythic-mobs.pw.toml"
+hash = "a1190763c29d3e0f0dd76fe7932bfecbe51cff575a00b9a70718fa3861760841"
 metafile = true
 
 [[files]]
