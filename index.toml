@@ -11,6 +11,11 @@ hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "31a75fd95d5c670301f8f135ae702e6913a43a7605a28e44425f4838b30f338e"
 metafile = true
 
 [[files]]
@@ -167,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "682dbda396392c309747e953429f9db1e4594f187ac85a7700a8ff02f7c8b523"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -321,6 +331,11 @@ hash = "c9629e49e6df56c7a5786a05da27b2c9b857aafe61776761dda6f5f550423e78"
 metafile = true
 
 [[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
+metafile = true
+
+[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "576d07620d82ba95eb403981a9ba96e1c8fb3098039c732a0c2598a199ef08ec"
 metafile = true
@@ -436,6 +451,11 @@ hash = "dc896448d636334c53a9f57bfab50f6f0b39c558a998b9123c58db4e67ca2aa2"
 metafile = true
 
 [[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "1b2753e4e9ebd0f334873e99ef80de977958a1dac995cd2057fd3583dc2e2073"
 metafile = true
@@ -458,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/ultris-boss-expansion.pw.toml"
+hash = "90364a94f4819f546d69b8ccae7b8fd25eef00541c522aa963b655c39d07fcb5"
 metafile = true
 
 [[files]]
